@@ -7,7 +7,7 @@ rencana konten mifzal
   ^ react
 -struktur data dasar
 -PHP framework
-  ^ karavel
+  ^ laravel
 -interview
 -vlogs
 -pyhthon
