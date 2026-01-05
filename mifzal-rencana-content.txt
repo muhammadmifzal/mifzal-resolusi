@@ -3,7 +3,10 @@ rencana konten mifzal
 -javascript
 *ES6
 *framework javascript
+  ^ vue
 -struktur data dasar
 -PHP framework
+  ^ karavel
 -interview
 -vlogs
+-pyhthon
