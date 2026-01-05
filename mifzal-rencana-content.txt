@@ -1,6 +1,8 @@
 rencana konten mifzal
 
 -javascript
+*ES6
+*framework javascript
 -PHP framework
 -interview
 -vlogs
